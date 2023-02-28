@@ -28,7 +28,7 @@
 
 # 📖 Hello World Rails-React <a name="about-project"></a>
 
-**Hello-world-rails-react** is an app where I connected a rails db for backend with react components to show the frontend.
+**Hello World Rails-React** is an app where I connected a rails db for backend with react components to show the frontend.
 
 ## 🛠 Built With <a name="built-with"></a>
 

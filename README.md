@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -7,46 +8,73 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# Hello-world-rails-react <a name="about-project"></a>
+# 📖 [Hello-world-rails-react] <a name="about-project"></a>
 
 **Hello-world-rails-react** is an app where I connected a rails db for backend with react components to show the frontend.
-
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Developed using Ruby on Rails.
 <details>
-  <summary>Languages</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
-    <ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
     <li><a href="https://rubyonrails.org/">Rails</a></li>
   </ul>
 </details>
 
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
+
 - **Show a random greeting using a react component**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- There's no live demo for this practice project.
+- There's no live demo for this practice project yet.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 > To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -78,12 +106,23 @@ To run tests, run the following command:
 ```
 - rspec
 ```
+
+### Deployment
+
+This project has not been deployed yet.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Abubakar Ummar**
 
 - GitHub: [@Haywayaheadshot](https://github.com/Haywayaheadshot)
 - LinkedIn: [Abubakar Ummar](https://www.linkedin.com/in/abubakar-ummar/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
@@ -93,6 +132,9 @@ To run tests, run the following command:
 
 - [ ] ***Add a simple reducer instead of a slice***
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -100,15 +142,42 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+If you like this project please give me a ⭐️!
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to the code reviewers and my partners who are helping all the time.
+I would like to thank Microverse for the knowledge impacted in me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[How does the project work?]**
+
+  - [The greetings are stored in a Greeting table in the database.
+     An API endpoint sends a greeting at random and we use react redux to receive the data and send it to our Greeting component.]
+
+- **[Can I make changes to the project?]**
+
+  - [Yes! You can fork it and make changes.]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 

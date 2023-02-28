@@ -115,7 +115,7 @@ This project has not been deployed yet.
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Abubakar Ummar**
 
@@ -164,16 +164,14 @@ I would like to thank Microverse for the knowledge impacted in me.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **How does the project work?**
 
-- **[How does the project work?]**
+  - The greetings are stored in a Greeting table in the database.
+     An API endpoint sends a greeting at random and we use react redux to receive the data and send it to our Greeting component.
 
-  - [The greetings are stored in a Greeting table in the database.
-     An API endpoint sends a greeting at random and we use react redux to receive the data and send it to our Greeting component.]
+- **Can I make changes to the project?**
 
-- **[Can I make changes to the project?]**
-
-  - [Yes! You can fork it and make changes.]
+  - Yes! You can fork it and make changes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
